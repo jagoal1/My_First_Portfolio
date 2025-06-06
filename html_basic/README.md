@@ -1,0 +1,1 @@
+This is a basic HTML project. It contains a simple, valid HTML file created for learning and validation.
